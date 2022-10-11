@@ -8,12 +8,12 @@ This Repository include data structures with C#
   - Circular Queue
   - Priority Queue
   - Dequeue 
-3)Linked List
+3) Linked List
   - Singly linked list
   - Doubly linked list
   - Circular linked list
-4)Tree
-5)Sorting Algorithms
+4) Tree
+5) Sorting Algorithms
   - Bubble sort
   - Insertion sort
   - Selection sort
